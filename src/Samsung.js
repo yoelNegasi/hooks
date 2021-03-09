@@ -9,7 +9,7 @@ function Samsung(props) {
 
   return (
     <div className="container">
-      <h1>samsung</h1>
+      <h1>SAMSUNG</h1>
       <h1>{number}</h1>
       <button onClick={() => setNumber(number + 1)}>
         <h1>+</h1>
